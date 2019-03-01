@@ -1,0 +1,9 @@
+name: KOTH
+version: 5.5
+main: me.jaze.Koth.KothPlugin
+description: Simple KOTH plugin.
+depends: [Factions]
+softdepends: [WorldEdit]
+commands:
+    koth:
+     description: All of this plugins commands.
